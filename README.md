@@ -36,11 +36,14 @@ Menu interaktif yang tersedia di dalam sistem ini meliputi:
 4. Jalankan (*run*) berkas `Main.java`.
 
 ## Screenshot Program
+1. ![Tampilan Menu + Menambah Menu](./SSan/menambah_stok.png)
+2. ![Mengecek Stok](./SSan/mengecek_stok.png)
+3. ![Mengedit Data](./SSan/mengedit_data_bunga.png)
+4. ![Menghapus Stok](./SSan/menghapus_stok.png)
+5. ![Keluar](./SSan/keluar.png)
 
 
----
-
-## 👩‍💻 Profil Pembuat
+## Saya
 * **Nama:** Nabila Putri Karni
 * **NIM:** 2409106041
-* **Program Studi:** Sistem Informasi / Teknik Informatika
+* **Program Studi:** Informatika
