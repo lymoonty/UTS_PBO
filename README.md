@@ -43,7 +43,8 @@ Menu interaktif yang tersedia di dalam sistem ini meliputi:
 5. ![Keluar](./SSan/keluar.png)
 
 
-## Saya
+
+## Data Diri
 * **Nama:** Nabila Putri Karni
 * **NIM:** 2409106041
 * **Program Studi:** Informatika
